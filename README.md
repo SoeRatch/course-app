@@ -74,3 +74,10 @@ now create setupTests.js and teardownTests.js
 
 ]
 
+> npm i objection
+ERESOLVE unable to resolve dependency tree
+failed so tried below command 
+> npm i objection --legacy-peer-deps
+
+> npm i jsonwebtoken
+> npm i yup
